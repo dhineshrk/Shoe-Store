@@ -1,0 +1,12 @@
+// { id: '123', name: 'Running Shoes', price: '60.00', description: 'Perfect for running on any terrain.', imageUrl: './assets/shoes-1.jpg', averageRating: '5.0' },
+//     { id: '234', name: 'Basketball Shoes', price: '120.00', description: 'High performance shoes for the court.', imageUrl: './assets/shoes-2.jpg', averageRating: '5.0' },
+//     { id: '345', name: 'Bright Red Shoes', price: '90.00', description: 'Stand out with these bright red shoes.', imageUrl: './assets/shoes-3.jpg', averageRating: '5.0' },
+//     { id: '456', name: 'Fancy Shoes', price: '190.00', description: 'Elegant shoes for formal occasions.', imageUrl: './assets/shoes-4.jpg', averageRating: '5.0' },
+//     { id: '567', name: 'Skateboard Shoes', price: '75.00', description: 'Durable shoes for skating enthusiasts.', imageUrl: './assets/shoes-5.jpg', averageRating: '5.0' },
+//     { id: '678', name: 'High Heels', price: '200.00', description: 'Stylish high heels for every outfit.', imageUrl: './assets/shoes-6.jpg', averageRating: '5.0' },
+//     { id: '7891', name: 'Dark Shoes', price: '100.00', description: 'Classic dark shoes for everyday wear.', imageUrl: './assets/shoes-7.jpg', averageRating: '5.0' },
+//     { id: '8901', name: 'Classic Shoes', price: '40.00', description: 'Timeless design for casual outings.', imageUrl: './assets/shoes-8.jpg', averageRating: '5.0' },
+//     { id: '901', name: 'Plain Shoes', price: '54.00', description: 'Simple and versatile shoes for all occasions.', imageUrl: './assets/shoes-9.jpg', averageRating: '5.0' },
+//     { id: '912', name: 'Teal Dress Shoes', price: '330.00', description: 'Stunning teal shoes for formal wear.', imageUrl: './assets/shoes-10.jpg', averageRating: '5.0' },
+//     { id: '7892', name: 'Fancy Boots', price: '230.00', description: 'Stylish boots for colder seasons.', imageUrl: './assets/shoes-11.jpg', averageRating: '5.0' },
+//     { id: '8902', name: 'Gold Shoes', price: '180.00', description: 'Shiny gold shoes for special occasions.', imageUrl: './assets/shoes-12.jpg', averageRating: '5.0' }
