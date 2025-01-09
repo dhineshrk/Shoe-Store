@@ -25,7 +25,7 @@ const sampleProducts = [
 
 
 // Connect to MongoDB
-mongoose.connect('mongodb://localhost:27017/dhineshrk77')
+mongoose.connect('mongodb+srv://dhineshrk77:dhineshrk77@cluster0.sjik3.mongodb.net/Ecommerce-vue')
     .then(() => console.log("Database Connected"))
     .catch(error => console.error("Database connection error:", error));
 

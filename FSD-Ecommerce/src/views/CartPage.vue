@@ -1,7 +1,7 @@
 <script setup>
 import { onMounted } from 'vue';
 import { useCart } from '../composables/useCart';
-import ProductsList from '../components/ProductsList.vue';
+import ProductsList from '@/components/productsList.vue';
 
 // Mock user ID
 const userId = '12345';
